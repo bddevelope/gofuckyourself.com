@@ -1,13 +1,19 @@
+
+
+
 video{
+
     margin-left: auto;
     margin-right: auto;
 }
 body {
     background-image: url("./img/eva.svg");
     background-color: #cccccc;
+    font-family: 'Montserrat', sans-serif;
    }
-center{
-    margin-top: 100px;
+.centre{
+    margin: 0px;
+    text-align: center;
 }
 .title{
     font-size: 48px;
@@ -18,4 +24,9 @@ center{
 }
 video{
     border-radius: 8px;
+}
+.credits{
+    margin-top: 280px;
+    margin-left: 1500px;
+    color: gray;
 }
